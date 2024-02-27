@@ -1,0 +1,10 @@
+section{
+    padding: 0 40%;
+}
+
+#user-data{
+    border:2px solid black;
+    display: inline-flex;
+    flex-direction: column;
+    
+}
